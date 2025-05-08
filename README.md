@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=pooyeshtorabi&label=Profile%20views&color=0e75b6&style=flat" alt="pooyeshtorabi" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/pooyeshtorabi">
-    <img src="https://img.shields.io/github/stars/pooyeshtorabi?label=Stars&style=social" alt="GitHub Stars" />
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
