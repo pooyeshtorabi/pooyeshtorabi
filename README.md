@@ -14,8 +14,8 @@ I'm a software developer who thrives on building end-to-end systems — from int
 🔹 Developing robust **backends** with **Python** using **Flask** and **Django**  
 🔹 Crafting **custom WordPress** themes and plugins with performance optimization  
 🔹 Architecting **Telegram & Discord bots** for practical automation and user interaction  
-🔹 Passionate about **robotics**, actively involved in building prototypes with **Arduino**  
 🔹 Dedicated to clean, scalable, and user-friendly systems, always with **UX design** in mind
+🔹 Passionate about **robotics**, actively involved in building prototypes with **Arduino**  
 
 Whether it's creating a **web platform**, developing an intelligent **bot**, or automating real-world workflows, I don't just write code — I **engineer systems** that deliver impactful results.
 
@@ -31,9 +31,9 @@ Whether it's creating a **web platform**, developing an intelligent **bot**, or 
 - **Frameworks**: Flask, Django  
 - **Platforms**: WordPress  
 - **Automation**: Telegram & Discord bots, system scripting  
-- **Electronics & Robotics**: Arduino, prototyping  
 - **Tools**: Git, VS Code, Linux  
 - **Design**: Figma
+- **Electronics & Robotics**: Arduino, prototyping  
 
 ---
 
