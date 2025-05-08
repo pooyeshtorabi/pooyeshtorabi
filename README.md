@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooyesh Torabi</h1>
-<h3 align="center">Full-Stack Developer | Python Programmer | WordPress Specialist</h3>
+<h3 align="center">Full-Stack Developer · Python & WordPress Specialist · Bot & Automation Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pooyeshtorabi&label=Profile%20views&color=0e75b6&style=flat" alt="pooyeshtorabi" />
@@ -9,20 +9,32 @@
 
 ### 🧠 About Me
 
-- 💻 Full-stack developer focused on building scalable websites and automation tools  
-- 🐍 Skilled in Python development using **Flask** and **Django**  
-- 🌐 Expert in WordPress: custom themes, plugins, and speed optimization  
-- 🤖 Developer of bots and automation tools for Telegram and Discord  
-- 🎨 Passionate about UI/UX and responsive front-end development  
-- 📊 Experienced with SEO techniques and website analytics
+I'm a full-stack developer driven by clean architecture, elegant automation, and scalable solutions.
+
+I specialize in:
+- **Backend development** using Python — particularly with **Flask** and **Django**
+- **Custom WordPress** solutions including advanced theme/plugin development
+- Building high-performance **bots and automation pipelines** for Telegram & Discord
+- Developing interactive and responsive web interfaces with a UI/UX-first mindset
+- Working with **microcontroller-based systems** and experimenting in the world of **robotics & Arduino**
+
+In short: I turn code into impact. Whether it's a website, a bot, or a system, I focus on building products that work — smart, fast, and reliably.
 
 ---
 
-### 🛠️ Skills & Tools
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,wordpress,figma,django,flask,git,linux,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,html,css,js,wordpress,figma,arduino,git,linux,vscode" alt="skills" />
 </p>
+
+- **Languages**: Python, C++, HTML/CSS/JavaScript  
+- **Frameworks**: Flask, Django  
+- **CMS**: WordPress  
+- **Automation & Bots**: Telegram, Discord  
+- **Microcontrollers**: Arduino  
+- **Design**: Figma  
+- **Dev Tools**: Git, Linux, VS Code
 
 ---
 
