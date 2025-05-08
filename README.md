@@ -9,15 +9,15 @@
 
 ### 🧠 About Me
 
-I'm a software developer focused on building end-to-end systems — from web platforms to real-time automation. My work lives where code meets purpose.
+I'm a software developer who thrives on building end-to-end systems — from intuitive web platforms to advanced real-time automation. My work is where **code meets purpose** and where problems turn into smart, scalable solutions.
 
-🔹 Backends in **Python** using **Flask** and **Django**  
-🔹 Advanced **WordPress** engineering: custom themes, plugins, performance tuning  
-🔹 Architecting bots for **Telegram & Discord**, designed for real-world use cases  
-🔹 Tinkering in **robotics** and building prototypes with **Arduino**  
-🔹 Always designing with **UX in mind** and delivering scalable, clean systems
+🔹 Developing robust **backends** with **Python** using **Flask** and **Django**  
+🔹 Crafting **custom WordPress** themes and plugins with performance optimization  
+🔹 Architecting **Telegram & Discord bots** for practical automation and user interaction  
+🔹 Passionate about **robotics**, actively involved in building prototypes with **Arduino**  
+🔹 Dedicated to clean, scalable, and user-friendly systems, always with **UX design** in mind
 
-Whether it's a website, a bot, or an automated workflow — I don’t just code it, I **engineer** it.
+Whether it's creating a **web platform**, developing an intelligent **bot**, or automating real-world workflows, I don't just write code — I **engineer systems** that deliver impactful results.
 
 ---
 
@@ -31,7 +31,7 @@ Whether it's a website, a bot, or an automated workflow — I don’t just code 
 - **Frameworks**: Flask, Django  
 - **Platforms**: WordPress  
 - **Automation**: Telegram & Discord bots, system scripting  
-- **Electronics**: Arduino, prototyping  
+- **Electronics & Robotics**: Arduino, prototyping  
 - **Tools**: Git, VS Code, Linux  
 - **Design**: Figma
 
