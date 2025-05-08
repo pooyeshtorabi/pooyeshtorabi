@@ -7,13 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/pooyeshtorabi">
-    <img src="https://img.shields.io/github/followers/pooyeshtorabi?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/pooyeshtorabi">
     <img src="https://img.shields.io/github/stars/pooyeshtorabi?label=Stars&style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/pooyeshtorabi?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/pooyeshtorabi?label=Repositories&style=social" alt="GitHub Repositories" />
   </a>
 </p>
 
