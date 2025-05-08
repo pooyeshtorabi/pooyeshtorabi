@@ -21,7 +21,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,cpp,html,css,js,wordpress,figma,flask,git,linux,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,wordpress,figma,django,flask,git,linux,vscode" alt="skills" />
 </p>
 
 ---
