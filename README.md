@@ -24,7 +24,7 @@ Whether it's creating a **web platform**, developing an intelligent **bot**, or 
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,html,css,js,wordpress,figma,arduino,git,linux,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,html,css,js,react,next,wordpress,figma,arduino,git,linux,vscode" alt="skills" />
 </p>
 
 - **Languages**: Python, C++, JavaScript, HTML/CSS  
